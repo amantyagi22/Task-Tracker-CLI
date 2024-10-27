@@ -1,0 +1,13 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "Link : <a href=\"https://roadmap.sh/projects/task-tracker\">Project Description Link</a>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
